@@ -118,5 +118,5 @@ repositories {
 }
 
 wrapper {
-    gradleVersion = "4.10.3"
+    gradleVersion = "9.2.1"
 }
